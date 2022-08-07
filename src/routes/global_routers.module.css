@@ -1,0 +1,10 @@
+:root{
+    --global-Background: #161b22;
+    --global-BGI: #010409;
+
+    --BGStart: linear-gradient(20deg, rgba(0,30,42,1) 0%, rgb(0, 19, 27) 21%, rgb(0, 27, 37) 46%, rgb(0, 49, 66) 80%, rgb(2, 188, 255) 100%);
+}
+
+main{
+    
+}
